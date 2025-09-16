@@ -34,7 +34,7 @@
 <br />
 <img align="right" height="350px" width="420px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWE4aHl6eDMwdTZjd3ozZDd1OXFmZzRoOW9haW9tMzZwd3lscXUybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
 <p align="center">
-  <h3> 🎓 I'm a 3rd-year student pursuing B.E. in Artificial Intelligence and Machine Learning  </h3>
+  <h3> 🎓 I'm a final year student pursuing B.E. in Artificial Intelligence and Machine Learning  </h3>
 </p>
 
  -💡 I love working on **real-world problems using Data Science, AI, and NLP**
